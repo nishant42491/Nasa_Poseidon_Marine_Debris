@@ -32,6 +32,7 @@ python3 -m flask run
 <br><br>
 
 ```
+cd Android app
 sync gradle files
 install all dependencies
 Build and Run using android virtual device
